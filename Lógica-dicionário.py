@@ -31,3 +31,7 @@ if index is not None:
     print(f"Index of {key_to_find}: {index}")
 else:
     print(f"The key '{key_to_find}' is not present in the dictionary.")
+
+
+
+#https://sparkbyexamples.com/python/get-the-index-of-key-in-python-dictionary/
